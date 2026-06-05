@@ -106,3 +106,10 @@ Reddit collected manually as .txt files due to 403 errors on .json scraper
 Distances under 0.55. Query 2 cannot find Polimeni by course number
 
 **Milestone 5 — Generation and interface:** I'll give Claude the Retrieval Approach section and ask it to write the Groq API call with a system prompt that enforces grounding (i.e., the model should only answer from retrieved chunks, not general knowledge). I'll verify using the 5 evaluation questions and checking responses against expected answers.
+
+After running query.py:
+Query 1 is grounded — every claim traces back to a numbered source, the answer acknowledges conflicting reviews rather than averaging them away, and it only draws from Peyrovian chunks.
+Query 2 is grounded — cites LaGrassa by source, and correctly hedges on the Reddit chunk ("does not specify a particular professor's name").
+Query 3 is the most important one — the system declined cleanly instead of hallucinating a restaurant recommendation. That's your grounding instruction working.
+
+App.py runs smoothly with minor issues.
