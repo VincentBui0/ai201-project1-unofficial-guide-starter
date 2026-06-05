@@ -2,6 +2,8 @@ import os
 import re
 import html
 import requests
+from sentence_transformers import SentenceTransformer
+import chromadb
 
 # --- Config ---
 DOCS_DIR = "documents"
@@ -61,11 +63,9 @@ def parse_rmp_file(filepath):
 
     prof_name = filepath.replace("_rmp.txt", "").replace("_", " ").split("\\")[-1].split("/")[-1].title()
 
-    # Split into blocks on double newlines
     blocks = re.split(r"\n{2,}", content)
 
     reviews = []
-    current_review_lines = []
     in_review = False
 
     for block in blocks:
@@ -73,11 +73,9 @@ def parse_rmp_file(filepath):
         if not block:
             continue
 
-        # Skip header blocks
         if any(x in block for x in ["STUDENT RATINGS", "Overall Quality", "Rating Distribution"]):
             continue
 
-        # Skip metadata blocks
         lines = block.splitlines()
         is_metadata = all(
             re.match(r"^\[\d+\]$", l.strip()) or
@@ -95,6 +93,7 @@ def parse_rmp_file(filepath):
 
     return prof_name, reviews
 
+
 def load_txt_files(folder):
     docs = []
     for filename in sorted(os.listdir(folder)):
@@ -104,7 +103,6 @@ def load_txt_files(folder):
         source = filename.replace(".txt", "")
 
         if filename.startswith("stevens_"):
-            # Reddit files: plain text, no metadata to strip
             with open(filepath, "r", encoding="utf-8") as f:
                 text = f.read().strip()
             docs.append({"source": source, "prof_name": None, "text": text})
@@ -163,15 +161,69 @@ def chunk_docs(docs):
     chunks = []
     for doc in docs:
         reviews = doc["text"].split("\n\n")
+        prof_name = doc["prof_name"]
         for review in reviews:
-            splits = split_text(review, chunk_size=250, chunk_overlap=50)
+            splits = split_text(review, chunk_size=400, chunk_overlap=75)
             for s in splits:
+                # Prepend professor name so the embedding captures it,
+                # even when the chunk text alone doesn't mention it
+                if prof_name and not s.startswith(prof_name):
+                    chunk_text = f"Professor {prof_name}: {s}"
+                else:
+                    chunk_text = s
                 chunks.append({
                     "source": doc["source"],
-                    "prof_name": doc["prof_name"],
-                    "chunk": s
+                    "prof_name": prof_name,
+                    "chunk": chunk_text
                 })
     return chunks
+
+
+# --- Embed and store in ChromaDB ---
+def build_vector_store(chunks):
+    print("\nLoading embedding model...")
+    model = SentenceTransformer("all-MiniLM-L6-v2")
+
+    client = chromadb.PersistentClient(path="./chroma_db")
+
+    try:
+        client.delete_collection("stevens_reviews")
+    except Exception:
+        pass
+
+    # Use cosine distance — better for semantic similarity than L2
+    collection = client.create_collection(
+        "stevens_reviews",
+        metadata={"hnsw:space": "cosine"}
+    )
+
+    texts = [c["chunk"] for c in chunks]
+    metadatas = [{"source": c["source"], "prof_name": c["prof_name"] or "unknown"} for c in chunks]
+    ids = [f"chunk_{i}" for i in range(len(chunks))]
+
+    print(f"Embedding {len(chunks)} chunks...")
+    embeddings = model.encode(texts, show_progress_bar=True).tolist()
+
+    collection.add(
+        documents=texts,
+        embeddings=embeddings,
+        metadatas=metadatas,
+        ids=ids
+    )
+
+    print(f"Stored {collection.count()} chunks in ChromaDB.")
+    return collection, model
+
+
+# --- Retrieval ---
+def retrieve(query, collection, model, k=5):
+    query_embedding = model.encode([query]).tolist()
+    results = collection.query(
+        query_embeddings=query_embedding,
+        n_results=k,
+        include=["documents", "metadatas", "distances"]
+    )
+    return results
 
 
 # --- Main ---
@@ -185,7 +237,23 @@ if __name__ == "__main__":
     chunks = chunk_docs(docs)
     print(f"Total chunks: {len(chunks)}")
 
-    print("\n--- 5 sample chunks ---")
-    for c in chunks[:5]:
-        print(f"[{c['source']}] {c['chunk']}")
-        print()
+    collection, model = build_vector_store(chunks)
+
+    test_queries = [
+        "What do students say about Prof. Peyrovian's grading style?",
+        "What's the teaching quality like in CS515?",
+        "Which professors are known for being accessible outside of class?",
+    ]
+
+    for query in test_queries:
+        print(f"\n{'='*60}")
+        print(f"QUERY: {query}")
+        print('='*60)
+        results = retrieve(query, collection, model, k=5)
+        for i, (doc, meta, dist) in enumerate(zip(
+            results["documents"][0],
+            results["metadatas"][0],
+            results["distances"][0]
+        )):
+            print(f"\n[{i+1}] source: {meta['source']} | distance: {dist:.3f}")
+            print(doc)

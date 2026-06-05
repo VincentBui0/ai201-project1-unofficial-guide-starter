@@ -103,4 +103,6 @@ Reddit collected manually as .txt files due to 403 errors on .json scraper
 
 **Milestone 4 — Embedding and retrieval:** I'll give Claude the Architecture diagram and the Retrieval Approach section and ask it to write the script that embeds chunks using `all-MiniLM-L6-v2` and loads them into a local ChromaDB collection. I'll verify by running a test query against the collection and checking that the top-5 results are from the expected professor.
 
+Distances under 0.55. Query 2 cannot find Polimeni by course number
+
 **Milestone 5 — Generation and interface:** I'll give Claude the Retrieval Approach section and ask it to write the Groq API call with a system prompt that enforces grounding (i.e., the model should only answer from retrieved chunks, not general knowledge). I'll verify using the 5 evaluation questions and checking responses against expected answers.
