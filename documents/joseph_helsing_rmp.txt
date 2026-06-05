@@ -1,0 +1,22 @@
+
+STUDENT RATINGS (2 total)
+
+[1]
+Course: AAI-551
+Date: Dec 22, 2024
+Quality: 5.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A | Textbook: N/A
+Tags: Tough grader, Participation matters, Amazing lectures
+
+Professor Helsing did a great job explaining stuff and most of the quiz questions were from the lectures. Told a few too many stories, but he's really enthusiastic!
+
+
+[2]
+Course: AAI-551
+Date: Oct 29, 2024
+Quality: 5.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A- | Textbook: Yes
+Tags: Amazing lectures, Clear grading criteria, Caring
+
+One of Stevens' best software professors. Gives clear lectures, making complex content easily digestible. Gives 5-minute quizzes each class, but if you review the (excellent) slides they will be easy. Assigns labs once per week which have very clear instructions to the point that you are essentially following steps and translating them into code.
+

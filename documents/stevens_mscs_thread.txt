@@ -1,0 +1,118 @@
+Got admitted to MS CS at Stevens — thoughts?
+r/stevens — posted by Peaches2001970, 3 years ago
+
+
+
+OP:
+
+Just wanted to know everyone's thoughts on the program, the location, the experience of the school, etc.
+
+
+
+[deleted]:
+
+The CS program is great and the school vibe, location, and opportunities are the best.
+
+
+
+[deleted]:
+
+I'm a CS student myself. It's hard as hell but everyone is super helpful so use your resources.
+
+
+
+[deleted]:
+
+I honestly wish I went more of a business route for my masters because there's more money there, but if you are getting a purely technical degree (basically any engineering or science masters) then CS is by far the best. If it's what you're passionate in, then do it. Stevens has a great CS program. So if you like CS and want to get a masters in it, Stevens is a great choice.
+
+
+
+OP:
+
+I actually really like the business side as well and money is kind of the end-all motivator. I think it's smart to get a CS degree (I like the data science side) and also because I have no work experience — fresh out of undergrad — so something more technical feels smart. Maybe through work experience I can shift or do a future MBA. Do you think it's not possible to shift towards a business role?
+
+
+
+phoenix823 (MSCS '05):
+
+I'm impartial, but I think it was pretty great.
+
+
+
+Passthekimchi (recent graduate):
+
+High quality program, and Stevens has a great reputation in NYC.
+
+
+
+xopops:
+
+Tbh don't come.
+
+
+
+soulhunter2214:
+
+Don't come. I'm doing my MS in CS and it's a waste of money and time.
+
+
+
+[deleted] (international student):
+
+Don't select it unless you have a good scholarship. Tuition price is not justified for the CS program. Courses are nothing special, the career center doesn't provide any help for grad students, and professors are not interested beyond research. Location isn't much help either in this market. I've attended tons of networking events in NYC but none were helpful for internship or job because I'm an international student requiring sponsorship. The university career fair is useless — no tech companies attend. It's all from fields like environment, banking, transportation, and energy, who again can't employ international students due to sponsorship requirements.
+
+
+
+OP:
+
+I don't require visa sponsorship — is that any kind of advantage? I have an okay scholarship and it's cheaper than my other option so I'm leaning towards it. The career outcomes seemed like a decent selling point. Would the NYC networking events be an advantage then?
+
+
+
+[deleted] (international student, continued):
+
+If you're a citizen you won't have much trouble getting internships at small startups or mid-sized companies through networking. Keep an eye on networking and hiring events in NYC and attend them. Don't expect anything from the school regarding career support. For academics, it depends on your background. Either way, build a good relationship with professors from the beginning to get the most out of courses.
+
+I did CS in my undergrad too and felt the content was dumbed down to accommodate everyone — not justified for a master's level course. But I worked on projects with professors and learned advanced concepts that way.
+
+
+
+[deleted] (EE alumnus, Fortune 150 aerospace):
+
+Many US companies, especially those doing business with the government, cannot hire foreign nationals at all — that's a function of US law, not the school's fault. Getting a job after attending any school is up to you. You have to sell yourself to an employer and give them a strong reason to hire you. The school teaches you; it's up to you to use that education. You have to network — that's how most jobs are gotten. You can look up Stevens alumni at companies you're interested in via the alumni directory, LinkedIn, and other searches and reach out to them. This is true no matter where you went.
+
+Stevens is quite well known on the East Coast. If you look at career outcomes in Payscale, Forbes, or other salary surveys, Stevens graduates are in the top 20 of US schools. No school will hand you a job.
+
+
+
+[deleted] (international student, response):
+
+I did find a job and I'm well aware of the difficulties around sponsorship. I didn't expect the school to hand me one, but the least they could do is organize a decent career fair given they advertise the school as having the best ROI.
+
+The career fair was of absolutely no use for tech students — no companies from the field at all. The career center provided no personalized resume feedback or mock interview help. I did both myself. Other universities like Rutgers, NJIT, NYU, and Columbia provide much better opportunities from what I heard from peers during internships.
+
+Courses are not that good either — material is too basic even in advanced courses for a master's degree. Another issue is the quality of students admitted to the grad program. The majority are not interested in the domain and won't put in the effort. Cheating on assignments and tests is rampant. It's clear that all that matters to this university is tuition money, at least for grad school. The undergrad program is apparently much better based on what I've heard from those students. School name is not that recognized at companies compared to the universities I mentioned, based on my experience at GHC and SWE conferences.
+
+
+
+[deleted] (EE alumnus, response):
+
+The last Stevens career fair my team recruited at had Bloomberg, Credit Suisse, Barclays, Goldman Sachs, Chase, and others. Stevens is quite popular with the NYC financial industry and many Stevens grads get offers there. Cheating should not be tolerated. EE and CS are intimately related — I interview both EE and CS graduates.
+
+
+
+[deleted] (international student, response):
+
+Stevens grads working at FAANG and getting placement at FAANG from Stevens are completely different things. If I achieve that goal based on experience from a previous company, Stevens didn't play a role. The career center didn't help me with mock interviews when I contacted them either.
+
+And if Stevens is so well known on the East Coast, why are there no networking or hiring events on campus from FAANG, banks, and trading firms located right across the river? I see postings about upcoming events from these companies at Columbia, Princeton, and NYU regularly, but nothing at Stevens.
+
+
+
+OP:
+
+I'm actually a citizen (just lived abroad for a long time) so it's good to hear the career fair has good companies. It's confusing because the two people on this thread are saying opposing things.
+
+
+
+[Note: A brief off-topic exchange between FloppingPimple92 and another commenter clarifying that this post is about MS (graduate) admissions, not BS (undergraduate), has been omitted as it contains no relevant information about the program.]

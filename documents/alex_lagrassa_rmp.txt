@@ -1,0 +1,102 @@
+
+STUDENT RATINGS (10 total)
+
+[1]
+Course: CS-115
+Date: Apr 6, 2026
+Quality: 5.0 | Difficulty: 2.0
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A | Textbook: Yes
+Tags: Lecture heavy, Accessible outside class
+
+They were helpful, personally I think the class overall was really easy. Professor LaGrassa does a pretty good job at explaining things and the exams were all easy. Just do not procrastinate on your homework and this class will be completely fine.
+
+
+[2]
+Course: CS-115
+Date: Jan 21, 2026
+Quality: 5.0 | Difficulty: 1.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A | Textbook: Yes
+Tags: Participation matters, Amazing lectures, Caring
+
+Lectures were always super clear. Overall, a great professor who seemed to deeply care about the success of his students. Made the second two exams easier after everyone did bad on the first one. Would take again.
+
+
+[3]
+Course: CS-115
+Date: Jan 20, 2026
+Quality: 3.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Not Mandatory | Grade: B+ | Textbook: Yes
+Tags: Get ready to read, Lots of homework, Accessible outside class
+
+For a first-time teacher, LaGrassa is ok but not great. Doesn't explain things very in depth and assigns quite complicated homework. Very nice and really pushes office hours and feedback. Does assign textbook reading. I didn't do it, which was fine, but not recommended lol. They do make an effort to make sure students engage, which I appreciate.
+
+
+[4]
+Course: CS-115
+Date: Jan 20, 2026
+Quality: 5.0 | Difficulty: 1.0
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A+ | Textbook: Yes
+Tags: Extra credit, Amazing lectures, Gives good feedback
+
+Very good professor, the textbook was found online so no need to pay, the exams were easy if you actually study and even if you messed up, you can just retake it with the professor helping to get max grade. Lectures were great too, and clarifies any past logic as well.
+
+
+[5]
+Course: CS-115
+Date: Jan 19, 2026
+Quality: 4.0 | Difficulty: 2.0
+Would Take Again: Yes | Grade: A
+Tags: Lots of homework, Accessible outside class
+
+Good prof. Pretty good lectures and explanations. Does NOT believe in curves but WILL let you redo any question on any of the 3 exams until you reach your desired grade. Lots of HWs and labs too. Tests were simple/easy if you pay attention and study a little.
+
+
+[6]
+Course: CS-115
+Date: Dec 23, 2025
+Quality: 5.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A | Textbook: Yes
+Tags: Amazing lectures, Clear grading criteria, Accessible outside class
+
+Professor LaGrassa was pretty accessible and made it really easy to get in contact to talk in and out of class. The lectures were informative, and in case I didn't understand something, there was lots of reference material on the canvas. Overall, the class was really good, and I would recommend this professor. Plus, the CAs were good.
+
+
+[7]
+Course: CS-115
+Date: Dec 22, 2025
+Quality: 5.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A- | Textbook: Yes
+Tags: Participation matters, Hilarious, Accessible outside class
+
+Very good professor for this course. Very timely and quick with his responses, and provides a virtual option for his office hours. His lectures are good, but the extra resources he provides are usually the best for learning.
+
+
+[8]
+Course: CS-115
+Date: Dec 21, 2025
+Quality: 5.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A | Textbook: Yes
+Tags: Clear grading criteria, Gives good feedback, Accessible outside class
+
+Great teaching, can get a little confusing with explanations. Other than that, very clear with grading, assignments, labs. Always available for help. Great TAs. I learned a lot.
+
+
+[9]
+Course: CS-115
+Date: Dec 17, 2025
+Quality: 4.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Textbook: N/A
+Tags: Participation matters, Caring, Accessible outside class
+
+He is a sweet and approachable professor. The exams weren't too bad and you're allowed a reference sheet on every one of them. The labs/HWs are weighted a good amount so they balance out your grade. Only con I'd say is that sometimes when asking questions, his answers were really vague and unhelpful. I would totally recommend taking him for CS115.
+
+
+[10]
+Course: CS-115
+Date: Dec 17, 2025
+Quality: 5.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A | Textbook: Yes
+Tags: Amazing lectures, Clear grading criteria, Lots of homework
+
+This introductory CS class checks all the boxes. It's Alex's first time teaching a class, and they did an excellent job conveying the basic content. Alex uses mastery-based grading, which can take some getting used to, but after you understand it, the grading is incredibly generous. Make sure to go to labs, otherwise, hw will be difficult.
+

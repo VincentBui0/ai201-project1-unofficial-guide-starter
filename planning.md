@@ -96,6 +96,11 @@ Raw Documents (HTML/text)
 
 **Milestone 3 — Ingestion and chunking:** RMP data is collected manually as `.txt` files (one per professor). I'll give Claude the Documents section and ask it to write a script that loads those local files from disk, plus a Reddit scraper using the `.json` trick for the four Reddit URLs. For chunking, I'll give Claude the Chunking Strategy section and ask it to implement `chunk_text()` using LangChain's `RecursiveCharacterTextSplitter` with chunk size 250 and overlap 50. I'll verify by printing chunk counts and spot-checking that no chunk cuts mid-sentence in a way that loses meaning.
 
+## Milestone 3 Results
+Total chunks: 390 (79 RMP, 311 Reddit)
+Chunk size: 250, overlap: 50
+Reddit collected manually as .txt files due to 403 errors on .json scraper
+
 **Milestone 4 — Embedding and retrieval:** I'll give Claude the Architecture diagram and the Retrieval Approach section and ask it to write the script that embeds chunks using `all-MiniLM-L6-v2` and loads them into a local ChromaDB collection. I'll verify by running a test query against the collection and checking that the top-5 results are from the expected professor.
 
 **Milestone 5 — Generation and interface:** I'll give Claude the Retrieval Approach section and ask it to write the Groq API call with a system prompt that enforces grounding (i.e., the model should only answer from retrieved chunks, not general knowledge). I'll verify using the 5 evaluation questions and checking responses against expected answers.

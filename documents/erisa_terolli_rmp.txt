@@ -1,0 +1,400 @@
+
+STUDENT RATINGS (38 total)
+
+[1]
+Course: CS556
+Date: Dec 24, 2025
+Quality: 2.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Not Mandatory | Grade: A- | Textbook: N/A
+Tags: Tough grader, Graded by few things
+
+The course offered very little actual teaching, mostly recycled recordings of old slides. TAs were unhelpful and difficult to understand, making office hours unproductive. There were no meaningful live Zoom sessions or engagement. If you take this online, save your money and your time unless you enjoy teaching yourself and paying for the privilege.
+
+
+[2]
+Course: CS556
+Date: Sep 9, 2025
+Quality: 4.0 | Difficulty: 4.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A | Textbook: N/A
+Tags: Amazing lectures, Clear grading criteria, Lots of homework
+
+Terolli has a clear and engaging teaching style. Homeworks are long but prepare you well for exams. Although exams sometimes had tricky questions, most of the content was fair, and her grading was lenient.
+
+
+[3]
+Course: CS115
+Date: Sep 5, 2025
+Quality: 5.0 | Difficulty: 4.0
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A- | Textbook: Yes
+Tags: Inspirational
+
+W, snap call.
+
+
+[4]
+Course: CS556
+Date: May 13, 2025
+Quality: 5.0 | Difficulty: 2.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A | Textbook: N/A
+Tags: Participation matters
+
+You have to have made a major screw up not to get anything more than a B in this class. Professor is very accommodating to doubts, has a demo session at the end of class where we programmatically practice the mathematical concepts we learned in class, tests have a 2nd opportunity. Overall entirely worth it because you learn a lot and not stressful.
+
+
+[5]
+Course: CS556
+Date: May 31, 2024
+Quality: 2.0 | Difficulty: 4.0
+For Credit: Yes | Attendance: Not Mandatory | Grade: Not sure yet | Textbook: Yes
+Tags: Tough grader, Lots of homework
+
+Didn't like the class.
+
+
+[6]
+Course: CS115
+Date: May 2, 2024
+Quality: 5.0 | Difficulty: 2.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A | Textbook: N/A
+Tags: Extra credit, Beware of pop quizzes
+
+I enjoyed her lectures and the course. She looks for student feedback throughout the semester, and is generous with giving extra credit on tests. I would definitely take one of her courses again.
+
+
+[7]
+Course: CS556
+Date: Jan 18, 2024
+Quality: 5.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A
+Tags: Tough grader, Clear grading criteria, Accessible outside class
+
+Professor Terolli is a fantastic professor in spite of her slightly strict grading. Her tests are easy and have similar questions to the assignments/slides. Office hours were very helpful during the assignments. She gives lots of materials to practice, which makes preparing for tests so much easier. She also gives many chances to boost your grade.
+
+
+[8]
+Course: CS556
+Date: Jan 5, 2024
+Quality: 1.0 | Difficulty: 3.0
+Attendance: Not Mandatory | Grade: Rather not say
+Tags: Tough grader
+
+I didn't like the class and didn't attend it after session 5 or maybe 6. Honestly, it felt like you could just learn everything by reading the lecture notes at home and there wasn't any extra in the class. And it's a bit surprising to see lots of good reviews about this class.
+
+
+[9]
+Course: CS556
+Date: Dec 26, 2023
+Quality: 1.0 | Difficulty: 4.0
+For Credit: Yes | Attendance: Not Mandatory | Grade: A- | Textbook: Yes
+Tags: Tough grader, Clear grading criteria
+
+The curriculum is good; however, her teaching approach doesn't foster engagement or enthusiasm for the subject. She tends to deliver lectures with the aim of rushing through them, rather than creating an environment that encourages curiosity and deeper understanding. Assignments are time-consuming. I'd recommend exploring other teachers.
+
+
+[10]
+Course: CS115
+Date: Dec 14, 2023
+Quality: 4.0 | Difficulty: 3.0
+For Credit: Yes | Would Take Again: Yes | Grade: A- | Textbook: Yes
+Tags: Participation matters, Lots of homework, Beware of pop quizzes
+
+Considering the nature of the class, I think Terolli was a good teacher! She uses a lot of visual examples and makes the information easy to understand. Homework and Labs come in frequently, as well as pop quizzes, but none felt too overwhelming. She can sometimes lose control of her lectures, but apart from that she makes the content very clear.
+
+
+[11]
+Course: CS115
+Date: Dec 13, 2023
+Quality: 2.0 | Difficulty: 2.0
+For Credit: Yes | Attendance: Not Mandatory | Grade: B | Textbook: N/A
+Tags: Tough grader, Beware of pop quizzes, Graded by few things
+
+She is a very tough grader and has much more difficult exams/homeworks in comparison to other professors. I don't think Terolli is necessarily a bad professor I just believe that it is significantly harder to do well in her course in comparison to others. Trust me I wouldn't be wasting time writing this review if it wasn't true.
+
+
+[12]
+Course: CS115
+Date: Oct 13, 2023
+Quality: 5.0 | Difficulty: 4.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A | Textbook: Yes
+Tags: Tough grader, Extra credit, Lots of homework
+
+This is your most important class, you are a CS major. It will be hard. Homework/labs will take hours because they are not clear on how to solve and it's okay because you are supposed to learn from these hurdles. The TAs are pretty helpful but try not to rely on them for every small problem. Review her material that she posts for every week.
+
+
+[13]
+Course: CS556
+Date: Oct 4, 2023
+Quality: 1.0 | Difficulty: 5.0
+Attendance: Mandatory | Textbook: N/A | Online Class: Yes
+Tags: Lots of homework
+
+Lots of homework, you have to do every week. The TA teach you, not the professor. Just follow the PPT. No examples for your homework. And you have to use LaTeX to do the homework, so the homework is tough. If you choose this course, you have to spend lots of time to learn the course by yourself. Awful experience.
+
+
+[14]
+Course: CS556
+Date: May 17, 2023
+Quality: 5.0 | Difficulty: 4.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A | Textbook: N/A
+Tags: Tough grader, Group projects, Amazing lectures
+
+Course was a little difficult but I learned a lot from it. I was able to apply the knowledge in future ML courses.
+
+
+[15]
+Course: CS115
+Date: May 4, 2023
+Quality: 5.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: Not sure yet | Textbook: Yes
+Tags: Participation matters, Extra credit, Beware of pop quizzes
+
+Attendance was optional, and I could skip if I wanted to. But I still went to her lectures because I actually learned a lot and found them useful. Her lessons are very clear and she makes learning CS concepts understandable. I had a little bit of python experience, but I still learned a lot in her class!
+
+
+[16]
+Course: CS556
+Date: Mar 29, 2023
+Quality: 5.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A | Textbook: Yes
+Tags: Amazing lectures, Clear grading criteria, Accessible outside class
+
+She's the sweetest and most caring professor ever! I loved her class, she cleared out the math concepts that had confused me for years. This class is a must-take! She's a slightly tough grader and her tests can be slightly challenging, but she gives plenty of opportunity to catch up if you have a bad grade.
+
+
+[17]
+Course: CS115
+Date: Jan 14, 2023
+Quality: 5.0 | Difficulty: 2.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A- | Textbook: Yes
+Tags: Clear grading criteria, Beware of pop quizzes, Accessible outside class
+
+I was really scared coming into this course. But I was in good hands with Professor Terolli. She was a very generous grader, gave a lot of extra credit, and even bumped our grades up at the end! She was always there to help us and her review sessions were very helpful for the exams, some questions were almost identical! She gave us candy too!
+
+
+[18]
+Course: CS115
+Date: Jan 12, 2023
+Quality: 5.0 | Difficulty: 2.0
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A | Textbook: Yes
+Tags: Beware of pop quizzes
+
+A bit hard to understand at first but very good otherwise.
+
+
+[19]
+Course: CS556
+Date: Dec 28, 2022
+Quality: 4.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A | Textbook: N/A
+Tags: Amazing lectures, Clear grading criteria
+
+Good and clear lectures, really sets foundation for future ML related courses.
+
+
+[20]
+Course: CS556
+Date: Dec 25, 2022
+Quality: 5.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A- | Textbook: Yes
+Tags: Lecture heavy, Test heavy, Accessible outside class
+
+You won't find a professor that cares more about their students' success. Dr. Terolli gives ample opportunity to be successful in this course. A word of caution on CS 556 though, it's a tough, very fast-paced course. If you know you'll be taking this course, and aren't strong on math, you must self-study linear algebra and differentiation.
+
+
+
+[21]
+Course: CS115
+Date: Dec 14, 2022
+Quality: 5.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: Rather not say | Textbook: Yes
+Tags: Participation matters, Extra credit, Accessible outside class
+
+Fantastic professor. CS115 is a difficult intro course if you are coming into it with no previous coding knowledge, but Professor Terolli makes it manageable. Her lectures are very clear as well as interactive, and she makes herself very available outside of class. It's clear she cares for her students, with extra office hours and reviews for exams.
+
+
+
+[22]
+Course: CS556
+Date: Nov 28, 2022
+Quality: 5.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A | Textbook: Yes
+Tags: Group projects, Clear grading criteria, Test heavy
+
+Great professor. Cares about the students and improving the class. Would definitely recommend.
+
+
+
+[23]
+Course: CS556
+Date: May 10, 2022
+Quality: 1.0 | Difficulty: 1.0
+For Credit: Yes | Attendance: Mandatory | Grade: A- | Textbook: N/A
+Tags: Tough grader, Beware of pop quizzes
+
+Professor Terolli's class is great in terms of the content and the material we have to cover. However, she tends to be very rude sometimes. She focuses too much on grades rather than making learning a fun experience.
+
+
+
+[24]
+Course: CS115
+Date: Mar 25, 2022
+Quality: 5.0 | Difficulty: 2.0
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A+ | Textbook: N/A
+Tags: Amazing lectures, Beware of pop quizzes, Respected
+
+Learned a lot in this course and was very happy with Terolli's teaching. Very much recommend!
+
+
+
+[25]
+Course: CS115
+Date: Jan 19, 2022
+Quality: 5.0 | Difficulty: 3.0
+For Credit: Yes | Would Take Again: Yes | Grade: B+ | Textbook: Yes
+Tags: Beware of pop quizzes, Amazing lectures, Caring
+
+If you're scared coming into CS from high school, and manage to get a class with Terolli, rest assured that you got lucky and she will definitely take care of your doubts as she is a phenomenal teacher who will help you genuinely learn and makes class enjoyable. Undoubtedly the best CS 115 teacher you could ask for!
+
+
+
+[26]
+Course: CS556
+Date: Jan 4, 2022
+Quality: 5.0 | Difficulty: 2.0
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A | Textbook: No
+Tags: Beware of pop quizzes, Amazing lectures, Caring
+
+Prof Terolli is an amazing lecturer. She explains concepts in a fun manner with a few jokes here and there. All you need to do is read her slides and with a little bit of work, you can easily pass with an A grade. She is a lenient grader too.
+
+
+
+[27]
+Course: CS115
+Date: Dec 20, 2021
+Quality: 5.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A | Textbook: Yes
+Tags: Accessible outside class, Caring, Extra credit
+
+Professor Terolli is absolutely amazing, definitely the best CS115 teacher at Stevens. She genuinely cares about her students understanding the material and will go above and beyond to make sure that every single person in the classroom feels comfortable. In my opinion, she is everything a CS professor should be.
+
+
+
+[28]
+Course: CS556
+Date: Dec 18, 2021
+Quality: 5.0 | Difficulty: 2.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A | Textbook: No
+Tags: Gives good feedback, Accessible outside class, Beware of pop quizzes
+
+Prof. Erisa Terolli tries her best to make sure her students understand the concepts taught in class and is also an amazing grader. Just attend the classes, refer to the material provided, and practice a little bit (after all it's a maths course) and you can easily get an A. Assignments are also easy. Beware of pop quizzes!
+
+
+
+[29]
+Course: CS115
+Date: Dec 16, 2021
+Quality: 5.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A | Textbook: No
+Tags: Gives good feedback, Caring, Extra credit
+
+Prof. Terolli is a great professor who has done a great job teaching her first semester at Stevens. She is well-spoken and knows how to clearly convey what she is talking about to the class, and she gives many opportunities for office hours, help, and extra credit. Overall, she's a caring professor who actually wants her students to pass.
+
+
+
+[30]
+Course: CS115
+Date: Dec 16, 2021
+Quality: 5.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A | Textbook: No
+Tags: Accessible outside class, Inspirational, Amazing lectures
+
+It's obvious by the way that she teaches that Terolli is incredibly intelligent and she is fantastic at explaining concepts. I wish she could teach me every single class. She's also a super kind grader and very accessible for extra help. Also very generous with extra credit. I've never heard anything bad about her.
+
+
+
+[31]
+Course: CS115
+Date: Dec 16, 2021
+Quality: 5.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A | Textbook: Yes
+
+Literally an amazing professor, so good at explaining problems, a very kind grader. The best CS 115 professor at Stevens.
+
+
+
+[32]
+Course: CS115
+Date: Dec 12, 2021
+Quality: 5.0 | Difficulty: 4.0
+For Credit: Yes | Would Take Again: Yes | Textbook: Yes
+Tags: Accessible outside class, Beware of pop quizzes, Extra credit
+
+She is very funny and caring.
+
+
+
+[33]
+Course: CS115
+Date: Dec 12, 2021
+Quality: 5.0 | Difficulty: 2.0
+For Credit: Yes | Would Take Again: Yes | Grade: A+ | Textbook: Yes
+Tags: Accessible outside class, Beware of pop quizzes, Caring
+
+Professor Terolli truly wants each and every one of her students to succeed. The course is somewhat challenging to students without prior experience, but she is happy to go over anything you have questions about. Very approachable and a great professor!
+
+
+
+[34]
+Course: CS115
+Date: Dec 9, 2021
+Quality: 5.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A | Textbook: No
+Tags: Accessible outside class, Beware of pop quizzes, Caring
+
+Professor Terolli is very passionate about the subject and her students, she genuinely cares about each and every student and is very helpful in understanding the course material and making sure everyone understands the ideas.
+
+
+
+[35]
+Course: CS556
+Date: Nov 16, 2021
+Quality: 5.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: Not sure yet | Textbook: Yes
+Tags: Amazing lectures, Caring
+
+Professor Terolli is just amazing! Possibly the best professor at Stevens. It's easy to see that she really cares about her students and their understanding of the subject. She explains the concepts over and over again until you understand them.
+
+
+
+[36]
+Course: CS115
+Date: Nov 15, 2021
+Quality: 5.0 | Difficulty: 3.0
+For Credit: Yes | Would Take Again: Yes | Textbook: Yes
+Tags: Accessible outside class, Amazing lectures, Caring
+
+Professor Terolli is an absolutely amazing teacher! She's down to earth and explains everything in a story-telling way that makes easy sense. She explains very basic logic and never puts someone down for not knowing. As someone who is coding for the first time, I am so glad to have her as my first coding teacher.
+
+
+
+[37]
+Course: CS115
+Date: Nov 8, 2021
+Quality: 5.0 | Difficulty: 3.0
+For Credit: Yes | Would Take Again: Yes | Textbook: Yes
+Tags: Group projects, Hilarious, Beware of pop quizzes
+
+Funny, knowledgeable, and professional. Would take again!
+
+
+
+[38]
+Course: CS115
+Date: Oct 18, 2021
+Quality: 5.0 | Difficulty: 4.0
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: Incomplete | Textbook: Yes
+Tags: Beware of pop quizzes, Amazing lectures
+
+Fun class.
+
+

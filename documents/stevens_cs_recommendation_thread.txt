@@ -1,0 +1,68 @@
+Would you recommend going to Stevens for a CS major?
+r/stevens — posted by c0kefairy, 4 years ago
+
+
+
+OP:
+
+Hi! I'm a high school junior. I have a 90-92 GPA as of now and I'm interested in pursuing a computer science major. I know that Stevens is a technology-centered college. Would you recommend going here for a CS major? How is the school? How are the academics? The professors? Does this school give a lot of opportunities like internships? Anything that you think would be useful to know for someone considering going here.
+
+
+
+FuzzyZocks (CS alumni):
+
+I enjoyed my experience. It's a smaller school right next to the city. There are plenty of internships and opportunities pipelined through university programs and even more just from being in the NYC area. The only downside if I had to pick one is that the best opportunities aren't immediately clear, but there is no upper limit if you put in the work. That same ideology applies to social life and activities — there are things through campus and a million more right in NYC.
+
+I don't know your exact circumstances or other options, but Stevens is great due to its location without even looking at everything else.
+
+
+
+toggle-Switch (B.Eng Electrical, 2012):
+
+Agree with FuzzyZocks. Just make sure you can afford it because debt is no joke and this school is stupid expensive.
+
+
+
+Big-Kaleidoscope4508:
+
+Lots of smart kids in the CS program and I see everyone doing well. Gave me a kick in the ass to start doing well too.
+
+
+
+watsola79 (parent):
+
+I know you didn't ask parents, but here are my thoughts. I have two sons, both on the autism spectrum — extremely smart but socially awkward. Both are in computer science.
+
+My older son applied to both Stevens and RPI, got into both, and ultimately chose Stevens. He liked the campus and environment, but:
+
+The best CS teacher there (Steven Gabarro, I believe) was let go during my son's sophomore year because he allegedly had been working externally with students against school policy.
+
+A lot of the other CS teachers were foreign or had TAs that were foreign. My son complained that several of them just read from the book during class.
+
+My son had a humanities teacher with whom he disagreed and didn't get along. He tried to work it out with the teacher but got no help whatsoever — the teacher told him to drop the class about 3/4 into the semester. My son asked his dean for help, the dean arranged a meeting between the teacher and my son, and the teacher blew it off. The dean then told my son to just drop the course. Complete waste of money.
+
+My son was allowed to take graduate-level classes to fill some requirements but they didn't prepare him for how difficult they were. He got a D in database systems. He also had to take Intermediate Statistics three times before he passed. His advisors were useless anytime he had a problem.
+
+My son was in the 5-year co-op program. He did several co-ops but didn't care for them. It turns out he's not really cut out for the corporate world — not Stevens' fault. In the final year, he was required to obtain his own internship. Stevens did not help him, even though he spent a tremendous amount of time in the co-op and placement offices. When push came to shove, they just abandoned him.
+
+The co-op program put him out of sync with his friends who were not in the program, so they ended up in different classes at different times and couldn't study as a group or help him when he really needed it.
+
+My son will finally graduate this year after 8 years (including a leave of absence). We paid a huge amount of money — even with scholarship awards and financial aid — and he is paying back $26K in loans.
+
+He had a friend a year younger who also went to Stevens for CS. He didn't like it either and ended up dropping out for a while. I don't know if he ever went back.
+
+The only good thing about the CS program as far as I'm concerned is the proximity to New York and the networking available there.
+
+My second son is starting college in computer science. We didn't apply to Stevens — he enrolled at RPI and is excited about it.
+
+
+
+12cbutler (CPE '16):
+
+Was that Mukund Iyengar? What a shame, he was a great professor.
+
+
+
+watsola79:
+
+No, it was Steven Gabarro, I believe. Maybe that's why they're having a hard time keeping good faculty.

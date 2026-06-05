@@ -1,0 +1,90 @@
+
+STUDENT RATINGS (9 total)
+
+[1]
+Course: CS545
+Date: Jan 28, 2025
+Quality: 5.0 | Difficulty: 1.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A+ | Textbook: N/A | Online Class: Yes
+Tags: Group projects, Lecture heavy
+
+Easy A, but you don't really learn anything. If you care about easy classes and good grades, then this is for you. But if you really do want to learn HCI, I recommend the in person classes with the other professor. Group project can be done in 2 days and be all front end local based.
+
+
+[2]
+Course: CS545
+Date: Dec 31, 2024
+Quality: 5.0 | Difficulty: 1.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A | Textbook: N/A | Online Class: Yes
+Tags: Group projects, Clear grading criteria, Caring
+
+I took this class online. Each week you were given a pdf of lecture slides and had to complete a 10 question MCQ quiz that was verbatim from the lecture notes. The midterm and final were expanded versions of the quiz. The final group project is graded leniently and is based more on your effort than your ability to create a perfect website.
+
+
+[3]
+Course: SSW590
+Date: Jan 24, 2022
+Quality: 5.0 | Difficulty: 2.0
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A | Textbook: Yes
+Tags: Gives good feedback, Group projects, Amazing lectures
+
+Prof. Vesonder is a great professor. He teaches the course really well, the lectures are interesting with a lot of knowledge.
+
+
+[4]
+Course: SWW540
+Date: Jan 29, 2019
+Quality: 5.0 | Difficulty: 1.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A+ | Textbook: No
+Tags: Tough grader, Respected, Amazing lectures
+
+Amazing individual.
+
+
+[5]
+Course: SWW540
+Date: Dec 30, 2018
+Quality: 3.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: No | Textbook: No | Online Class: Yes
+Tags: Amazing lectures, Caring, Group projects
+
+He is a nice professor and knows his stuff clearly. Professor posts lectures every week and you have to finish a quiz weekly. You have a midterm, final, and group project as well. Please prepare for the midterm and final as it will be indirect. Group projects have to be done carefully and please be ready to do surveys.
+
+
+[6]
+Course: CS545
+Date: May 18, 2018
+Quality: 5.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A | Textbook: No
+Tags: Gives good feedback, Respected, Amazing lectures
+
+The lectures are great albeit a little bit of information overload. Take notes as the midterm and final would be straight out of the material. A lot depends on the project. Pay attention to the grading criteria. Course is not really technical but is worthwhile if you are interested in building clean UI and want to learn about usability.
+
+
+[7]
+Course: CS545
+Date: Jan 26, 2017
+Quality: 5.0 | Difficulty: 2.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A+ | Textbook: Yes
+Tags: Respected, Participation matters, Amazing lectures
+
+Awesome professor. Very cool about students' doubts. Respected.
+
+
+[8]
+Course: CS597
+Date: Oct 25, 2015
+Quality: 4.5 | Difficulty: 2.0
+For Credit: Yes | Attendance: Mandatory | Grade: A | Textbook: No
+
+A really nice man who seems to genuinely be interested in what his students think. He loves to assign semester-long group projects, so pick your teams wisely! Also he'll give you a few textbooks you need, but I never used either of them and I got an A no problem. Just participate and take the group project seriously.
+
+
+[9]
+Course: SWW540
+Date: Jan 5, 2009
+Quality: 5.0 | Difficulty: 2.0
+Textbook: Yes
+
+Excellent professor. Funny and helpful. Knows his stuff, explains clearly and has no problems going over the same thing again. Well prepared slides are backed up with good explanation. You are tested only on the material that's been covered during class. You do have to study and weekly quizzes are a must. He will make you work. You'll get your money's worth.
+

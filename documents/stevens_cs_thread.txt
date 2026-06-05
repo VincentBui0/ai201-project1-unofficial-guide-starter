@@ -1,0 +1,246 @@
+Why I chose to attend Stevens for CS
+r/stevens — posted by [deleted] (OP), 2 years ago
+
+
+
+OP:
+
+When choosing a college, you often are in a conundrum between many different types of schools. Would you like to go to a large state school or a smaller private school? Would you like to go to a college that is easy or hard to get in? How much could you realistically afford? These were some of the questions I asked myself when applying for college to major in CS. Back then, I thought I wanted to attend a large state school because they are much cheaper and generally have pretty good CS programs. But, many have huge student populations and large class sizes, making it harder to become close with your classmates and professors and lean on them if you need any help. I know CS typically involves a lot of self-studying and am preparing myself to grind Leetcode, but I feel I would lose motivation in CS if I went to such a school where I'd essentially just be another student.
+
+I applied to Stevens Institute of Technology because I went to Precollege there in the summer between junior and senior year of HS and became instantly sold on the professors and campus. I genuinely felt at home there, an important thing considering I would be spending the better part of the next four years likely living on that very campus. The professors and TAs of the classes I took at Precollege (OCaml Functional Programming and Python Data Science) seemed like they really cared about making sure the students do the best and were always willing to meet with me whenever I needed help. Being in a small class, I was able to easily build a rapport with my classmates and professors in a way likely much harder at a large state school with 200 people in a lecture hall. The campus is also very beautiful and convenient. It is only 5 city blocks long, in a very walkable area with many shops and restaurants right by campus, and very close to reliable public transportation so I wouldn't need a car.
+
+I also got into the Pinnacle Scholars Program at Stevens. I watched a webinar for it and it seemed really good with a lot of interesting research programs, study abroad programs, social/cultural programs, and more, and an acceptance rate of only around 5-10%, making it feel very prestigious. It includes a $5000 yearly stipend for research supervised by a professor, studying abroad, and more, as well as a strong community including a special dorm, social/cultural events on and off campus (like watching live shows and sports games), and more.
+
+All in all, Stevens is a very community driven school. It's a place where I can be myself, succeed in an environment of likeminded people who are similarly interested in tech, all with professors and TAs who have my back if I need any help.
+
+I am fully aware of the cons. First, the cost. It is around 2x more than an average state school with in-state tuition. But, I think it is well worth it for this "community atmosphere". Second, it is not the most well-known tech school. However, as crazy as this may sound, I don't think it matters. Companies hire people, not schools. So, if being at Stevens, I could build my resume like never before thanks to mentoring and research opportunities with my professors especially as a Pinnacle Scholar. Also, I'm committed to making projects on my own. Like right now, I started a Mac app which has already gotten over 8000 downloads and made over $1000 in revenue. I am hoping to continue indie dev projects like this at Stevens as well as get internships. The ideal company I'd like to work for is Apple. Overall, I think coming from Stevens, combined with my personal projects, I could have a good chance of getting a job there as my education would embody a lot of Apple's principles like community and collaboration and my personal projects would show my commitment to designing well-built apps for Apple platforms.
+
+For anyone planning on majoring in CS, Engineering, or Business, I highly recommend you consider Stevens.
+
+
+
+Massive_Roll_5099:
+
+You should revisit your current thoughts once you have actually experienced college life.
+
+
+
+OP: In a good way or a bad way?
+
+
+
+Massive_Roll_5099:
+
+In a neutral way. The extent to which being at a small/medium school like Stevens makes it easier to "become close with your classmates" vs. at a large school isn't as drastic as you might expect — it still ultimately boils down to being willing to initiate conversations with people. And while the Pinnacle Scholar program is definitely a good thing, I doubt many people around campus consider it "very prestigious" especially in light of the minimal transparency regarding its selection process.
+
+
+
+OP: I am pretty good at relating to other people when in a small community. Also, Pinnacle could look good on my resume if I explain what it is.
+
+
+
+PossibleMechanic12:
+
+One of the biggest misconceptions is that school or school accolades contribute to the interview process heavily. Of course, this isn't to say it doesn't matter, but it's actually very minimal. I've done interviews where they genuinely don't ask about school, grades, accolades, etc. It's primarily about your work experience and whether your personality is a good fit for the company. And often, adding details about the school beyond just School Name + Major + GPA is a little waste of space. Explaining it a little when they ask you to introduce yourself during an interview wouldn't be bad, but otherwise having it on your resume doesn't do as much as people think it does.
+
+
+
+OP: Do you think I can get a job at a FAANG company?
+
+
+
+PossibleMechanic12:
+
+For sure, it's never impossible. As long as you can provide the skills and have some projects to showcase your skills, you'll be able to excel in the interviews. Just be prepared for them, be ready to ask questions and it'll be fine. Stay confident because you are skilled and have the ability to work at those companies. I also recommend you take a look at the career outcomes for Stevens students. You'll see a variety of companies that Stevens students get hired at. Good luck!
+
+
+
+OP: I heard of a few Stevens students who got jobs at Apple right off the bat.
+
+
+
+Massive_Roll_5099:
+
+"Pinnacle Scholar" on a resume is fine but the explanation may not be worth the space and overall it really won't do that much. The ability to get involved in research early on though is extremely valuable and can help put you in a better spot for an internship.
+
+
+
+OP: Do you think I can get a job at Apple out of Stevens?
+
+
+
+Massive_Roll_5099:
+
+Yes, particularly if you're near the top of the class and ideally if the SWE field rebounds a bit.
+
+
+
+OP: Do you think I'd be a good candidate for Apple?
+
+
+
+Massive_Roll_5099:
+
+Give yourself some time. You're clearly very smart and driven, but are still in high school. The workload here is a major adjustment even for the best students.
+
+
+
+NWq325:
+
+I am 100% sure you could get a job at Apple. However, they are the most restrictive of the FAANG companies and mostly only hire from a few feeders like UCLA and UT Austin. I have full faith that you will be able to get a job in FAANG, however.
+
+
+
+OP: The problem with those schools is that they're huge and it's hard to stand out.
+
+
+
+NWq325:
+
+But also consider this: big schools have more resources to help you, more professors concentrating in different fields, and 90% of people are just there to get a degree. The majority of people are not trying to stand out. If you're this motivated as a high schooler it will not be hard for you to do your own thing.
+
+
+
+OP:
+
+I disagree because at a big school, you have to find those resources and you're essentially just another cog in the machine. Most state school professors, especially in lectures, don't care one bit about you as a student. I'm not saying they're all bad and there are plenty of good ones, but at Stevens, it just seems like everyone cares more.
+
+
+
+AlarmedBudget9998:
+
+You're saying this after taking two classes in a pre-college program? Of course a small class size is nice to make friends. At a large state school, many of the profs have actually worked or currently work for FAANG and other big name companies. Many of my friends have been able to land internships by literally just showing up to office hours. I'm not sure if that's the case at Stevens.
+
+
+
+OP: I'd rather have a professor who actually teaches.
+
+
+
+NWq325:
+
+Yeah and literally all you have to do is ask and you'll be given those resources. Also, Stevens professors probably won't care about you either unless you talk to them and they get to know you, which you can also do at a big university.
+
+
+
+ghosty_anon (alumni):
+
+As an alumni, I'd like to gently refute a couple points. I did the pre-college too, it was a ton of fun. It's summer break, nobody has any stress, sleepover camp for a week — it's not like that usually. Everybody's very stressed and busy.
+
+Also 90% of your classes will be in large lecture halls with 150-200 people in the actual semester. The small classes thing only happens in pre-college.
+
+I really don't think Stevens is a "very community driven school." It's academics and ambition driven if anything, but the sense of community isn't really there. Any events the school organizes blow, and the general student body is pretty insufferable. But there are some great people there and they all tend to gravitate towards Greek life, which actually does have a strong community.
+
+It's way more than 2x the cost of in-state tuition.
+
+Companies don't hire schools, they hire people who went to schools — it for sure does matter, but Stevens is actually relatively well known around NYC for engineering.
+
+It's a pretty silly idea to fixate on a specific job before even starting college. I really do wish you the best of luck but Apple isn't the end all be all, and it may not be the company that makes you happy or successful. Keep an open mind over the next 4 years.
+
+I think you'll find this interesting to look back on in a few years. Who knows what school you will graduate from or with what degree, or what job you'll be headed for.
+
+
+
+OP: Do you still think Stevens is worth attending?
+
+
+
+ghosty_anon:
+
+Simple answer: yeah probably.
+
+It's not a simple item and its "worth" is hard to determine — it's entirely subjective and comes down to personal circumstance and values. Someone who has no interest in engineering will probably not think it's worth $300,000.
+
+You've already decided it's worth spending a lot of money to go to college, and you know you want to do CS or engineering and want to be around NYC, and you spent a week on campus and liked it, and have an ambitious goal you're working towards which this will help you achieve — so yeah I would say it's worth it. Especially with some scholarships.
+
+
+
+OP: Do you think it's worth it over a state school based on my reasons for choosing it?
+
+
+
+ghosty_anon:
+
+Which state school? They're all different. For some, maybe the value is really close. If the only two factors are cost and value of degree, maybe it makes sense to go somewhere cheaper — the degree won't be worth 4x the value of Rutgers, but it will cost 4x more potentially. If you really like the Stevens campus, faculty, students, and other factors, and those things are important to you, maybe it's not worth it to go somewhere else.
+
+I'm struggling to give you a definitive answer because "is this degree at this school worth it for me" hinges on the "me" part and it's a decision you need to make for yourself.
+
+
+
+OP: Stevens is only 2x more than Rutgers after financial aid.
+
+
+
+ghosty_anon:
+
+OK but financial aid is based on the individual and the school, so just speaking generally: Rutgers is about $100,000 for 4 years in-state tuition and Stevens is over $300,000 minimum, probably more with the cost of living off campus.
+
+
+
+OP:
+
+I got a $26,000 discount at Stevens making the net price $58K/year. Meanwhile, I got no scholarship at Rutgers making the net price around $38K/year — only $20K more expensive at Stevens, including room and board. I already have 2/3 saved in my college account and my parents agreed to pay for the rest so I should graduate with zero debt.
+
+
+
+ghosty_anon:
+
+Cool, the shorter way to say all that is just "money ain't an issue." So consider other factors and what else you could do with $100K, such as a down payment on a house after you graduate.
+
+
+
+OP:
+
+I'm planning on renting for at least the foreseeable future. I think it would be too expensive to own a place. I know someone who rented a one-bedroom apartment on a high floor in a luxury building in Downtown Jersey City, right by the train, for only $2400/month.
+
+
+
+policywoman501:
+
+Don't stress about all of the people who are bitter in these comments.
+
+The Pinnacle Scholar program is a great resource. My daughter has gone to so many Broadway shows for free and has had two summers abroad paid for by Pinnacle. And she has a research job on campus that pays her during the school year.
+
+Congrats on being selected as a Pinnacle Scholar. I think the Scholar House next year in Jonas is going to give you the community you are seeking.
+
+If you feel good about your choice, don't let the cynics bring you down.
+
+
+
+OP: That's great. I'm excited.
+
+
+
+NWq325:
+
+Having an app with revenue and downloads is like the golden ticket when applying to internships and jobs — it's like the holy grail of side projects. You could get a FAANG internship your freshman year possibly.
+
+
+
+OP: I hope so. Do you think being a Pinnacle Scholar and the mentorship/research opportunities I get because of that could help as well?
+
+
+
+NWq325:
+
+Eh, I was never a huge fan of the Pinnacle Scholars program because I wasn't in it.
+
+Short answer: probably not.
+
+Long answer: all Pinnacle Scholars is good for is early registration and acting better than everyone else. Sure, you can do research and get a stipend, but why would you want to do research at Stevens? You could do the AMP, but why would you want a master's from Stevens? Wouldn't the point be to go do research at a better university or get a master's from a better university? You could literally get the same thing by going up to a random professor and asking to join their lab.
+
+Maybe I'm a hater, but I have yet to see a real benefit except that you can tell people you're a Pinnacle Scholar and they'll be like "oh ok."
+
+
+
+OP: I will probably get the AMP to save money and complete college sooner. Plus, what's really wrong with doing research at Stevens?
+
+
+
+NWq325:
+
+You could get paid $5K to do research at Stevens or you could get $8K to do research at CMU. There are just better research universities that pay more with more resources.
+
+
+
+OP: I would be paying more for CMU.

@@ -1,0 +1,57 @@
+
+STUDENT RATINGS (5 total)
+
+[1]
+Course: CS515
+Date: Mar 8, 2026
+Quality: 5.0 | Difficulty: 2.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: B | Textbook: N/A
+Tags: Amazing lectures, Gives good feedback, Accessible outside class
+
+Amazing guy, answers doubts patiently, overall a really good professor.
+
+
+
+[2]
+Course: CS515
+Date: May 13, 2025
+Quality: 5.0 | Difficulty: 5.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: B | Textbook: Yes
+Tags: Amazing lectures, Gives good feedback
+
+Amazing professor, answers all doubts patiently.
+
+
+
+[3]
+Course: CS515
+Date: Jan 21, 2025
+Quality: 5.0 | Difficulty: 1.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A | Textbook: N/A
+Tags: Caring, Respected, Graded by few things
+
+Professor is great, the course is very easy and even curved the grades.
+
+
+
+[4]
+Course: CS515
+Date: Jan 20, 2025
+Quality: 5.0 | Difficulty: 1.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A | Textbook: N/A
+Tags: Extra credit, Caring, Graded by few things
+
+Professor is great.
+
+
+
+[5]
+Course: CS515
+Date: Dec 23, 2024
+Quality: 4.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: C | Textbook: N/A
+Tags: Extra credit, Amazing lectures, Gives good feedback
+
+Prof. Polimeni is a really good professor. He just started as an adjunct professor in the fall 2024 semester and was open to any questions from students during class, also speaking with them at length on any questions they had after class. If you're interested in Python, recursion, and some basics about algorithms, take this class.
+
+

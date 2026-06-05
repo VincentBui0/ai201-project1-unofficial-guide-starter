@@ -1,0 +1,164 @@
+STUDENT RATINGS (15 total)
+
+[1]
+Course: CS570WS
+Date: Oct 16, 2025
+Quality: 5.0 | Difficulty: 1.0
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A | Textbook: Yes
+Tags: Get ready to read, Inspirational
+
+Current attendee here. Firstly, the material he uses is very straight forward. Don't just complain when you don't put appropriate time on your study. What you should be grateful of is his compressed knowledge, experience from corps. If you are looking for typical lectures, you should go on youtube.
+
+
+
+[2]
+Course: CS570WS
+Date: Apr 9, 2025
+Quality: 4.0 | Difficulty: 3.0
+Attendance: Mandatory | Would Take Again: Yes | Textbook: Yes
+Tags: Get ready to read, Lots of homework, Caring
+
+He is a good professor, I had no issue with him. He is very accommodating and you learn a lot from taking this course. The workload is a bit high, but he is very lenient and transparent with his grading. He has overall a good character and motivates you to do your best, and thats what a good professor should do. I recommend this course.
+
+
+
+[3]
+Course: CS514
+Date: Mar 27, 2025
+Quality: 2.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Mandatory | Grade: Not sure yet | Textbook: Yes
+
+Incredibly dull course. The lectures are long and unengaging and the work is extremely tedious and can take countless hours and often requires extensive textbook readings and learning done on your own time.
+
+
+
+[4]
+Course: CS383
+Date: Jan 30, 2025
+Quality: 3.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Textbook: Yes
+Tags: Get ready to read
+
+Good teacher.
+
+
+
+[5]
+Course: CS347
+Date: Jan 28, 2025
+Quality: 3.0 | Difficulty: 1.0
+For Credit: Yes | Attendance: Mandatory | Grade: A | Textbook: N/A
+Tags: Group projects
+
+Easy A, but this class is super troll. He wants to simulate a real-world software project, but then why is there also so many slides and quizzes? Should be a seminar and discard the trivial quizzes that we spend all class studying for. No class time for developing and teamwork. And every day he reminds you, "I worked at bell labs you know"
+
+
+
+[6]
+Course: CS514
+Date: Jan 30, 2024
+Quality: 1.0 | Difficulty: 5.0
+For Credit: Yes | Attendance: Not Mandatory | Grade: A | Textbook: Yes | Online Class: Yes
+Tags: Get ready to read, Lots of homework, Graded by few things
+
+Avoid this class like the plague. Homework is incredibly time consuming and dull. The textbook is essentially useless unless the homework asks a question from it. Questions are either step by step right in the lecture notes, or have no help anywhere in the lecture notes or textbook. Lectures are just from the notes and boring, this class was useless.
+
+
+
+[7]
+Course: CS570WS
+Date: Jan 5, 2023
+Quality: 5.0 | Difficulty: 2.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A+ | Textbook: N/A
+Tags: Amazing lectures, Clear grading criteria, Lots of homework
+
+Professor is good in teaching and grading criteria is good as well. Only drawback is we need to purchase zybook ($58), other than that it is a light course, we can make it with ease.
+
+
+
+[8]
+Course: CS383
+Date: Jul 7, 2022
+Quality: 1.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Not Mandatory | Grade: A | Textbook: Yes
+
+It's a wonder how Prof. Peyrovian has been teaching this long. The lectures are fundamentally nothing, he references chapters that appear in no version of the textbook out there, and his criticisms during the semester-long project are RNG, often times directly contradicting his previous criticisms.
+
+
+
+[9]
+Course: CS570WS
+Date: Feb 3, 2021
+Quality: 1.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: No | Grade: Incomplete | Textbook: No | Online Class: Yes
+Tags: Lots of homework
+
+Force students to purchase zybooks ($88/term). And over 2000 questions in first week and you need to type all of them on zybooks to get credit.
+
+
+
+[10]
+Course: CS383
+Date: Nov 27, 2020
+Quality: 1.0 | Difficulty: 4.0
+For Credit: Yes | Attendance: Mandatory | Would Take Again: No | Textbook: Yes
+Tags: Test heavy
+
+Professor Peyrovian seems like a great person who wants to be a good professor but unfortunately is not. Lectures are quite literally read word for word off of slides that are not even made by him or the department. He does not answer questions in any way that is useful and seems to think that CS 383 is the hardest and most difficult class here lol.
+
+
+
+[11]
+Course: CS383
+Date: Nov 24, 2020
+Quality: 1.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: No | Textbook: No | Online Class: Yes
+Tags: Graded by few things, Beware of pop quizzes
+
+You will be graded by few projects, but be ready to not learn a single thing from this professor and be left even more confused after every lecture.
+
+
+
+[12]
+Course: CS383
+Date: Oct 31, 2019
+Quality: 1.0 | Difficulty: 2.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: No | Grade: Incomplete | Textbook: Yes
+Tags: Graded by few things, Lecture heavy, Tough grader
+
+He's very lecture based, basically reads off the power point. He acts like you only take his class. So if you're lost he'll be like read the book and try 20-50 problems. Classes as you can imagine are very boring and no one listens to him since its in through one ear and out the other. Grading isn't good, not hard but it's not structured well.
+
+
+
+[13]
+Course: CS600
+Date: May 15, 2019
+Quality: 2.0 | Difficulty: 4.0
+For Credit: Yes | Attendance: Mandatory | Would Take Again: No | Textbook: Yes
+
+Do not take this course unless you can find mistakes in the professor's lectures. This professor knows a lot but is not familiar with some details in algorithms. It happened several times that students asked questions in class and he gave wrong answers. He can't explain details but he pretends that he knows.
+
+
+
+[14]
+Course: CS600
+Date: Mar 6, 2018
+Quality: 5.0 | Difficulty: 4.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A+ | Textbook: Yes
+Tags: Gives good feedback, Respected, Accessible outside class
+
+He is awesome. Explains everything very good, knows a lot, very nice and respectful. I really enjoyed the class he made everything as easy as possible. Very fair in grading, very clear accent, very intelligent. Nice TAs. He appreciates your work and gonna help you in final project. Always available and replies on emails immediately. He is the best.
+
+
+
+[15]
+Course: CS514
+Date: Jan 3, 2018
+Quality: 3.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: No | Grade: A | Textbook: Yes
+Tags: Respected, Lots of homework, Lecture heavy
+
+PROs: Mid and Final term will seem easy if you paid attention in class and did the HWs on your own. The assignments are based on lecture examples.
+CONs: Lectures are quite dry. The solution to some of the assignment problems are counter-intuitive. TA sticks to the answer key and will not accept any alternate solution/logic.
+
+
